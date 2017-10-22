@@ -21,3 +21,4 @@ Audio Amplifier
 --------------
 2 potentiometers for frequency settings (ADC read) (87.50 Mhz to 108.00 Mhz)
 --------------
+[http://cxem.net/tuner/files/tuner84_RDA5807M_datasheet_v1.pdf[()
