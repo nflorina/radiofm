@@ -21,5 +21,3 @@ Audio Amplifier
 --------------
 2 potentiometers for frequency settings (ADC read) (87.50 Mhz to 108.00 Mhz)
 --------------
-
-
